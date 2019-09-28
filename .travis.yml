@@ -1,4 +1,5 @@
 language :java
 java:
         -"stable"
-script:
+jdk:
+  -open jdk-13
