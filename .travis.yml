@@ -1,6 +1,0 @@
-language :java
-java:
-        -"stable"
-        mvn test -B
-jdk:
-  -open jdk-13
